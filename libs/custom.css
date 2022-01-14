@@ -1,0 +1,29 @@
+.left-margin{
+    margin:0 .5em 0 0;
+}
+  
+.right-button-margin{
+    margin: 0 0 1em 0;
+    overflow: hidden;
+}
+  
+/* some changes in bootstrap modal */
+.modal-body {
+    padding: 20px 20px 0px 20px !important;
+    text-align: center !important;
+}
+  
+.modal-footer{
+    text-align: center !important;
+}
+
+#border {
+    display: inline;
+    width: 100px;
+    height: 100px;
+    padding: 100px;
+    box-sizing: border-box;
+    border: 1px solid rgb(0, 0, 0);   
+    align-items: center; 
+    margin-top: 8%;
+  }
